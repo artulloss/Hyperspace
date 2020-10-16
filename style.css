@@ -1,0 +1,12 @@
+html,
+body {
+  display: grid;
+  place-content: center;
+  background-color: #111;
+  padding: 0;
+  border: none;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

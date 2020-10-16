@@ -1,0 +1,7 @@
+{
+    "starAmount": "auto",
+    "fov": 20,
+    "baseSpeed": 0.025,
+    "starStretch": 5,
+    "starBaseSize": 0.05
+}
